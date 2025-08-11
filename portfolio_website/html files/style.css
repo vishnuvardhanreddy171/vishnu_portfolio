@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #96a8a1; /* Pewter */
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+header nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  background-color: #c3cde6; /* Periwinkle */
+  padding: 20px;
+  min-height: 60vh;
+}
+
+footer {
+  background-color: #96a8a1; /* Pewter */
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
